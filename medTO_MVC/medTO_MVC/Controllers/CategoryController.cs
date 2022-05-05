@@ -15,6 +15,7 @@ namespace medTO_MVC.Controllers
 
         public IActionResult Index()
         {
+            var objCategoryList = _db.Categories.ToList();
             return View();
         }
     }

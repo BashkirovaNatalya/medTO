@@ -8,11 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = medTO_MVC
 build_property.RootNamespace = medTO_MVC
-build_property.ProjectDir = C:\Users\sirvu\source\repos\BashkirovaNatalya\medTO\medTO_MVC\medTO_MVC\
+build_property.ProjectDir = C:\Users\sirvu\Source\Repos\BashkirovaNatalya\medTO\medTO_MVC\medTO_MVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sirvu\source\repos\BashkirovaNatalya\medTO\medTO_MVC\medTO_MVC
+build_property.MSBuildProjectDirectory = C:\Users\sirvu\Source\Repos\BashkirovaNatalya\medTO\medTO_MVC\medTO_MVC
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/sirvu/Source/Repos/BashkirovaNatalya/medTO/medTO_MVC/medTO_MVC/Views/Category/Index.cshtml]

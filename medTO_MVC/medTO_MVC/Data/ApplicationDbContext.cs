@@ -10,5 +10,5 @@ public class ApplicationDbContext : DbContext
         
     }
 
-    private DbSet<Category> Categories { get; set; }
+    public DbSet<Category> Categories { get; set; }
 }
